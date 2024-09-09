@@ -1,6 +1,6 @@
 domain: 'api.nlib.cc'
 app-host: '0.0.0.0'
-app-port: 80
+app-port: 8080
 database-path: '/data/NX-DB'
 # update-source: 'ghost-land/Nlib-API'
 update-source: 'LenochJaaJ/auto-updater-testing'
