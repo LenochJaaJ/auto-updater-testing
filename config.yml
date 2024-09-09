@@ -4,6 +4,7 @@ app-port: 80
 database-path: '/data/NX-DB'
 # update-source: 'ghost-land/Nlib-API'
 update-source: 'LenochJaaJ/auto-updater-testing'
+test: 'hey i am a new setting'
 
 limiter-enabled: true
 rate-limit: 5                   # Number of requests
